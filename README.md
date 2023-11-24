@@ -1,12 +1,12 @@
 # Customer Order System Bot
 This is my first telegram chatbot that allows an esteemed customer to join the telegram  channel bot, and be able to provide of the information that is important for product delivery.
 The **customer** is able to place an order and then wait for the manager's approval,after which the
-the **product** is delivered. If the customer cancels his/her order then the **manager** is notified to stop the order. [Join channel](t.me/order_system_bot)
+the **product** is delivered. If the customer cancels his/her order then the **manager** is notified to stop the order.
 
 # Installation 
 Let me guess that you want to try it locally, but not with my **token**, using yours that means a different **bot**
 
-To install it, clone the project directly or using the link ```https://github.com/domambia/order-system-bot.git```, then follow  to run it locally.
+To install it, clone the project directly or using the link ```https://github.com/ConfordH/bot-master/```, then follow  to run it locally.
 
 ## Create a virtual Environment and Activate it
 
@@ -39,10 +39,10 @@ To use some of the functionalities on this bot on your bot if you joined this or
 ```
 
 # Author
-1. O.M. Dauglous
+1. Hamilton Conford
 
 # Questions
-- For more questions [email](omambiadauglous@gmail.com)
+- For more questions [email](hamiltonconford@gmail.com)
 
 # Acknowledgment
 My best spirit of learning new ideas daily and trying to represent anything i learn in a better way.
