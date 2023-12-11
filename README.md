@@ -1,5 +1,5 @@
 # Customer Order System Bot
-This is my first telegram chatbot that allows an esteemed customer to join the telegram  channel bot, and be able to provide of the information that is important for product delivery.
+This is my first telegram chatbot that allows an esteemed customer to join the telegram  channel bot, and be able to provide the information that is needed for product delivery.
 The **customer** is able to place an order and then wait for the manager's approval,after which the
 the **product** is delivered. If the customer cancels his/her order then the **manager** is notified to stop the order.
 
